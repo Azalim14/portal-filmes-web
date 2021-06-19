@@ -1,0 +1,70 @@
+#tag{
+    border-radius: 50%;
+}
+
+#redacao{
+    color: #1E2E40;
+    
+}
+
+#puc{
+    color: white;
+}
+
+#footer{
+    background-color: #212529;
+    color: white;
+}
+
+#last-one{
+    margin-right: 25px;
+}
+
+body{
+    font-family: Verdana, Arial, Helvetica, sans-serif; 
+}
+
+.box-filme {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #212529;
+    border-radius: 15px;
+
+}
+.box-filme img {
+}
+
+.box-filme .title{
+    font-weight: 900;
+    color: #ffffff;
+    font-size: 28px;
+}
+
+.box-filme .overview{
+    color: #ffffff;
+    font-size: 14px;
+}
+
+.release-date{
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+
+h1{
+    color: #212529;
+    font-size: 350%;
+    font-weight: 800;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+}
+
+h2{
+    color: #212529;
+    font-size: 200%;
+    font-weight: 900;
+    margin-top: 15px;
+}
